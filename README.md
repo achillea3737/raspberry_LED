@@ -16,11 +16,12 @@ https://youtu.be/IJDaOOR2aKs
 After you clone my site, wirte 'make' in your commandline.
 And next, write these commands.
 
-`sudo insmod mylied.ko
+`    sudo insmod mylied.ko
 
-chmod 666 /dev/myled0
+    chmod 666 /dev/myled0
 
-echo 1 > /dev/myled0     # If you want to turn off LED, change '1' to '0'.`
+    echo 1 > /dev/myled0     # If you want to turn off LED, change '1' to '0'.
+`
 
 
 Finally, you can finish the work for writing this command.
