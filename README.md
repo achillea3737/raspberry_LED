@@ -1,7 +1,7 @@
 # raspberry_LED
-The assignment of robot system in Chiba Institute of Technology.
+The assignment of robot system in Chiba Institute of Technology.  
 
-Hichon Kimu
+Hichon Kimu  
 ====
 
 Overview
