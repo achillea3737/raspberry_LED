@@ -16,7 +16,8 @@ https://youtu.be/IJDaOOR2aKs
 After you clone my site, wirte 'make' in your commandline.
 And next, write these commands.
 
-`   sudo insmod mylied.ko
+`
+    sudo insmod mylied.ko
 
     chmod 666 /dev/myled0
 
